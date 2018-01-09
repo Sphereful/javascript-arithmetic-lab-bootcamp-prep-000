@@ -1,7 +1,5 @@
-
-function log() {
-  
-  var greeting = 'Hello!';
-  console.log(greeting);
+function log(s) {
+  var s = 'Mr. X';
+  console.log(s);
 }
-log();
+log('Hello!');
