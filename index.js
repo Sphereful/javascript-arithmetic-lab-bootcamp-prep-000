@@ -1,4 +1,4 @@
-function log(s) {
+function log(string) {
   var s = 'Mr. X';
   console.log(s);
 }
